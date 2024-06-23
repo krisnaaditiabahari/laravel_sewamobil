@@ -1,0 +1,10 @@
+Cara menjalankan aplikasi rental mobil
+
+1. jalankan aplikasi XAMPP dan pastikan modul MySQL dan Apache
+2. buat database dengan nama db_sewamobil
+3. import file db_sewamobil.sql di phpmyadmin
+4. jalankan perintah php artisan serve di command prompt/terminal, pastikan directori command prompt/terminal berada pad folder aplikasi rental mobil
+5. buka browser kemudian akses http://localhost:8000/
+6. Jika semua step berjalan dengan baik, makan akan muncul halaman login. Silahkan login dengan akun
+	Username : admin
+	Password : password
